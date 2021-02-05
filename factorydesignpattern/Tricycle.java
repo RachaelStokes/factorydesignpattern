@@ -6,6 +6,6 @@ public class Tricycle extends Bike {
         price = 54.95;
         numOfWheels = 3;
         hasPedals = true;
-        hasTrainingWheels = true;
+        hasTrainingWheels = false;
     }
 }
