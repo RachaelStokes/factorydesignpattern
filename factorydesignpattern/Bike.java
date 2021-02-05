@@ -19,7 +19,7 @@ public abstract class Bike {
 
     private void addWheels() {
         if(numOfWheels != 0) {
-            System.out.println("Adding " + numOfWheels + "wheel(s)");
+            System.out.println("Adding " + numOfWheels + " wheel(s)");
             if(hasTrainingWheels) {
                 System.out.println("Adding Training Wheels");
             }

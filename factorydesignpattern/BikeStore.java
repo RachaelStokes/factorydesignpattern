@@ -14,6 +14,7 @@ public class BikeStore {
             bike = new KidsBike();
         }
         bike.createBike();
+        System.out.println("Price $" + bike.getPrice());
         return bike;
 
     }
