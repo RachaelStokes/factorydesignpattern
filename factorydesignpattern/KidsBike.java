@@ -4,6 +4,7 @@ package factorydesignpattern;
  * @author Rachael
  */
 public class KidsBike extends Bike{
+    
     /**
      * constructor method to set all values of the kid's bike
      */
